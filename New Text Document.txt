@@ -1,0 +1,6 @@
+1. Create a database "menu" and import products.sql, lunch.sql. and dinner.sql as its tables
+2.Again create another database and "login" and import users.sql
+
+
+
+S.Jobs
