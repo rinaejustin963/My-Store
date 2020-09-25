@@ -110,6 +110,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
 </head>
 
+
+
 <body>
 <nav class="navbar navbar-light navbar-expand-md navigation-clean-button">
         <div class="container"><a class="navbar-brand" href="index.php">Justin FooDs</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
